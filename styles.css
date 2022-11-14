@@ -1,0 +1,38 @@
+body{
+  background-color: hsl(212, 45%, 89%);
+  font-family: 'Outfit', sans-serif;
+}
+
+.main-container{
+  position: relative;
+  width: 22.65%;
+  margin: auto;
+  margin-top: 162px;
+  text-align: center;
+  background-color: hsl(0, 0%, 100%);
+  border-radius: 15px;
+
+}
+
+.qr-code{
+  width: 90%;
+  margin: auto;
+  margin-top: 15px;
+  padding-bottom: 0;
+  border-radius: 10px;
+}
+
+.description{
+  margin: 22px;
+  padding-bottom: 25px;
+}
+.heading{
+  font-weight: 700;
+  font-size: 23px;
+  color: hsl(218, 44%, 22%);
+}
+.info{
+  font-weight: 400;
+  font-size: 15px;
+  color: hsl(220, 15%, 55%);
+}
