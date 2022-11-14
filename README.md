@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://rohankbd.github.io/Product-card/](https://rohankbd.github.io/Product-card/)
+- Live Site URL: [https://rohankbd.github.io/qr-code-component/](https://rohankbd.github.io/qr-code-component/)
 
 ## My process
 
